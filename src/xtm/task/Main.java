@@ -1,17 +1,12 @@
 package xtm.task;
 
+import xtm.task.service.FootBallClubInfoService;
+
 import java.net.HttpURLConnection;
 
 public class Main {
 
-
-
-
-    HttpURLConnection connectionToWikiAPI;
-
-
-
     public static void main(String[] args) {
-	// write your code here
+        FootBallClubInfoService footBallClubInfoService = new FootBallClubInfoService();
     }
 }
