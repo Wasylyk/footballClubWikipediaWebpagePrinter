@@ -1,4 +1,4 @@
-package xtm.task.service;
+package info.football.service;
 
 import com.google.gson.Gson;
 

@@ -1,6 +1,6 @@
-package xtm.task;
+package info.football;
 
-import xtm.task.service.FootBallClubInfoService;
+import info.football.service.FootBallClubInfoService;
 
 public class Main {
 

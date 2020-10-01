@@ -1,4 +1,4 @@
-package xtm.task.model;
+package info.football.model;
 
 public class WikiWebpage {
 
